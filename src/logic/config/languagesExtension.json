@@ -1,0 +1,117 @@
+[
+  {
+    "name": "JavaScript",
+    "type": "programming",
+    "extension": ".js"
+  },
+  {
+    "name": "TypeScript",
+    "type": "programming",
+    "extension": ".ts"
+  },
+  {
+    "name": "Haskell",
+    "type": "programming",
+    "extension": ".hs"
+  },
+  {
+    "name": "Python",
+    "type": "programming",
+    "extension": ".py"
+  },
+  {
+    "name": "Kotlin",
+    "type": "programming",
+    "extension": ".kt"
+  },
+  {
+    "name": "Julia",
+    "type": "programming",
+    "extension": ".jl"
+  },
+  {
+    "name": "Swift",
+    "type": "programming",
+    "extension": ".swift"
+  },
+  {
+    "name": "PyPy",
+    "type": "programming",
+    "extension": ".py"
+  },
+  {
+    "name": "Perl",
+    "type": "programming",
+    "extension": ".pl"
+  },
+  {
+    "name": "Ruby",
+    "type": "programming",
+    "extension": ".rb"
+  },
+  {
+    "name": "JAVA",
+    "type": "programming",
+    "extension": ".java"
+  },
+  {
+    "name": "Rust",
+    "type": "programming",
+    "extension": ".rs"
+  },
+  {
+    "name": "Bash",
+    "type": "programming",
+    "extension": ".sh"
+  },
+  {
+    "name": "dash",
+    "type": "programming",
+    "extension": ".sh"
+  },
+  {
+    "name": "C++",
+    "type": "programming",
+    "extension": ".cpp"
+  },
+  {
+    "name": "Lua",
+    "type": "programming",
+    "extension": ".lua"
+  },
+  {
+    "name": "PHP",
+    "type": "programming",
+    "extension": ".php"
+  },
+  {
+    "name": "Nim",
+    "type": "programming",
+    "extension": ".nim"
+  },
+  {
+    "name": "Zsh",
+    "type": "programming",
+    "extension": ".sh"
+  },
+  {
+    "name": "C#",
+    "type": "programming",
+    "extension": ".cs"
+  },
+  {
+    "name": "Go",
+    "type": "programming",
+    "extension": ".go"
+  },
+  {
+    "name": "C",
+    "type": "programming",
+    "extension": ".c"
+  },
+  {
+    "name": "D",
+    "type": "programming",
+    "extension": ".d"
+  }
+]
