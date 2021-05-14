@@ -22,5 +22,5 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - name: Test
         run: |
-          yarn install --frozen-lockfile
-          yarn test
+          npm ci
+          npm test
