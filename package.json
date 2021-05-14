@@ -1,13 +1,20 @@
 {
-  "name": "lang2extensions",
+  "name": "lang2extension",
   "version": "0.0.1",
   "description": "Determine extension from language name.",
   "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
   "license": "MIT",
   "author": "ivgtr <gear.1112t.o@gmail.com> (https://github.com/ivgtr)",
   "keywords": [
-    "Language",
-    "Extensions"
+    "language",
+    "extensions"
+  ],
+  "files": [
+    "lib",
+    "src",
+    "LICENSE",
+    "README.md"
   ],
   "scripts": {
     "start": "tsc -w",
