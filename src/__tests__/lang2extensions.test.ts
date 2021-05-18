@@ -289,26 +289,25 @@ describe("Check return .sh", () => {
   });
 });
 
-describe("Check return unknown", () => {
-  const ans = "unknown";
+describe("Check return undefined", () => {
   test("submit Fizz", () => {
     const text = "Fizz";
     const result = lang2extension(text);
 
-    expect(result).toBe(ans);
+    expect(result).toBeFalsy;
   });
 
   test("submit Buzz", () => {
     const text = "Buzz";
     const result = lang2extension(text);
 
-    expect(result).toBe(ans);
+    expect(result).toBeFalsy;
   });
 
   test("submit FizzBuzz", () => {
     const text = "FizzBuzz";
     const result = lang2extension(text);
 
-    expect(result).toBe(ans);
+    expect(result).toBeFalsy;
   });
 });

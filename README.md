@@ -21,6 +21,9 @@ import { lang2extension } from "lang2extension";
 
 console.log(lang2extension("Python (3.8.2)"));
 // => .py
+
+console.log(lang2extension("ABCDEFG"));
+// => undefined
 ```
 
 ## License
