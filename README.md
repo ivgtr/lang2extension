@@ -1,11 +1,27 @@
-<div align="center">
-  <h3>
-    lang2extension
-  </h3>
-  <p align="center">Determine extension from language name.</p>
-</div>
+### lang2extension
+
+- Determine extension from language name.
 
 ---
+
+_Support for getting the extension from the language name._
+
+_I used it to determine the file extension for scraping when I could only get the language name._
+
+## Usage
+
+### Package
+
+```shell
+$ npm install lang2extension
+```
+
+```js
+import { lang2extension } from "lang2extension";
+
+console.log(lang2extension("Python (3.8.2)"));
+// => .py
+```
 
 ## License
 
