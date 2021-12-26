@@ -28,7 +28,7 @@
     "@types/jest": "27.0.3",
     "@types/node": "16.11.17",
     "babel-jest": "27.4.5",
-    "eslint": "8.4.0",
+    "eslint": "8.5.0",
     "eslint-config-sumikko": "1.2.2",
     "jest": "27.4.5",
     "rimraf": "3.0.2",
